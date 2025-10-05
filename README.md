@@ -23,11 +23,11 @@
 
 ## Some Screenshots of our web app
 
-Two ways of Enter Data
-<img src="./assets/Two-methods.png" width="45%">
-
-![AgeAnalysisCard Screenshot](./assets/AgeAnalysis.PNG)
-![AgeAnalysisCard Screenshot](./assets/AgeAnalsis2.PNG)
+Two ways to enter data:
+<img src="./assets/Two-methods.PNG" width="45%">
+Age Analysis:
+![AgeAnalysisCard Screenshot](./assets/AgeAnalysis.png)
+![AgeAnalysisCard Screenshot](./assets/AgeAnalysis2.png)
 
 ## Internship Context
 
