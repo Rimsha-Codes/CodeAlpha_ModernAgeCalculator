@@ -24,10 +24,11 @@
 ## Some Screenshots of our web app
 
 Two ways to enter data:
-<img src="./assets/Two-methods.PNG" width="45%">
+<img src="/assets/Two-methods.PNG" width="45%">
+
 Age Analysis:
-![AgeAnalysisCard Screenshot](./assets/AgeAnalysis.png)
-![AgeAnalysisCard Screenshot](./assets/AgeAnalysis2.png)
+<img src="/assets/AgeAnalysis.png" width="45%">
+<img src="/assets/AgeAnalysis2.png" width="45%">
 
 ## Internship Context
 
